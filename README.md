@@ -73,11 +73,13 @@ if you use this repo in  your project don't forget to mention us as Contributer 
 
 ============================================================================
 ## Team Members
+
+### Shivnath Chavan
 ### Ayush Mudgal
 ### Kshitij Murabatte
 ### Saksham Sharma
 ### Vaibhav Hariramani
-### Shivanth
+
 
 The innovative team consisting of Ayush Mudgal, Kshitij Murabatte, Saksham Sharma, Vaibhav Hariramani, and Shivanth has made remarkable strides in the realm of image transformation using deep learning techniques. Their groundbreaking project involved the development of a cutting-edge system capable of colorizing black and white images through the power of artificial intelligence. Leveraging the capabilities of deep learning algorithms, the team successfully trained a model to recognize and predict appropriate colors for grayscale images, effectively breathing life into historical and monochromatic photographs.
 
@@ -85,16 +87,18 @@ To bring their visionary project to life, the team decided to implement a robust
 
 The synergy between Ayush, Kshitij, Saksham, Vaibhav, and Shivanth was a key factor in the success of this endeavor. Each member brought their unique skill set to the table, from expertise in deep learning architectures to frontend and backend development prowess. The team's dedication, collaboration, and passion for pushing the boundaries of technology resulted in a remarkable project that showcases the harmonious blend of AI innovation and web development ingenuity. As a result, they not only breathed new life into black and white memories but also set a prime example of how interdisciplinary collaboration can lead to groundbreaking achievements.
 
+### The Vaibhav Hariramani Zone 
+
 [Vaibhav H PortFolio](https://vaibhavhariaramani.github.io/)
-You can find me at:-
+You can find Vaibhav at:-
 [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) .
 
 Email: [vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com)
 
 
-# Download [THE VAIBHAV HARIRAMANI APP](https://play.google.com/store/apps/details?id=com.geeky.developer)
+####  Download [THE VAIBHAV HARIRAMANI APP](https://play.google.com/store/apps/details?id=com.geeky.developer)
 
-# [<img src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
+### [<img src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
