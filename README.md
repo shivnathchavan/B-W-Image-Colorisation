@@ -51,14 +51,6 @@ To deploy the model on Heroku:
 2. Create a new app and connect it to your model's GitHub repository.
 3. Deploy the model using Heroku's deployment process.
 
-#### Team Collaboration
-
-This project was the result of collaborative efforts between team members, each contributing their expertise:
-- Shivnath Chavan: Expertise
-- Ayush Mudgal: Expertise
-- Kshitij Murabatte: Expertise
-- Saksham Sharma: Expertise
-- Vaibhav Hariramani: Deep learning, front-end, and back-end development
 
 #### Conclusion
 
