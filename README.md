@@ -122,6 +122,14 @@ Email: [vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com)
 The Vaibhav Hariramani App (Latest Version) ](https://play.google.com/store/apps/details?id=com.geeky.developer)
 
 
+
+
+Download [THE VAIBHAV HARIRAMANI APP](https://play.google.com/store/apps/details?id=com.geeky.developer) consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View try installing it in your android device.
+
+Happy coding ❤️ .
+
+# ----------
+
 <p align="center">
   <a href="https://github.com/shivnathchavan"><img src="https://img.shields.io/badge/-github-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/shivnathchavan" alt="GitHub Badge"></a>
   <a href="https://www.linkedin.com/in/shivnath-chavan-shiva111"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivnath-chavan-shiva111" alt="LinkedIn Badge"></a>
@@ -132,8 +140,3 @@ The Vaibhav Hariramani App (Latest Version) ](https://play.google.com/store/apps
   <a href="https://img.shields.io/badge/license-MIT-green.svg"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="GMail Badge"></a>
   <a href="https://img.shields.io/badge/version-1.0.0-blue.svg"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version Badge"></a>
 </p>
-
-
-Download [THE VAIBHAV HARIRAMANI APP](https://play.google.com/store/apps/details?id=com.geeky.developer) consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View try installing it in your android device.
-
-Happy coding ❤️ .
