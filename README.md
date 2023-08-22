@@ -71,6 +71,8 @@ To learn more about these Resources you can Refer to some of these articles writ
 
 The project successfully combined deep learning techniques with web development to create a colorization model with a user-friendly web interface. The collaboration between team members showcased the power of interdisciplinary teamwork in achieving innovative results.
 
+#### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 <p align="center">
